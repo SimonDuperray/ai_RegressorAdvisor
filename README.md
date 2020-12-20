@@ -1,6 +1,3 @@
-# ai_RegressorAdvisor
-Python script that calculates R2 scores.
-https://github.com/SimonDuperray/ai_RegressorAdvisor
 # RegressorAdvisor
 
 [-> Repository](https://github.com/SimonDuperray/ai_RegressorAdvisor)
